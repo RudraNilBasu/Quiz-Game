@@ -6,3 +6,4 @@ Full Course Link - [Brackeys Quiz Game](https://www.youtube.com/playlist?list=PL
 Highlights - 
 
 * Use of [Material UI (beta version)](https://github.com/InvexGames/MaterialUI/releases) by [Invex Games](https://github.com/InvexGames) 
+* Use of Object Oriented Programming.
